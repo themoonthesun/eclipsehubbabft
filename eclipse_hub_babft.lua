@@ -402,7 +402,7 @@ end
 local Window = Rayfield:CreateWindow({
     Name = "Eclipse Hub Babft",
     LoadingTitle = "Verifying Key...",
-    LoadingSubtitle = "by DOCTOR BOB",
+    LoadingSubtitle = "by our goated developers",
     ConfigurationSaving = { Enabled = false },
     Discord = { Enabled = false },
     KeySystem = true,
@@ -413,7 +413,7 @@ local Window = Rayfield:CreateWindow({
         FileName        = "BaBFT_Key",
         SaveKey         = false,
         GrabKeyFromSite = false,
-        Key             = {"DoctorBob123"},
+        Key             = {"babfteclipse1"},
     },
 })
 
